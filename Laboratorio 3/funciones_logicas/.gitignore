@@ -3,9 +3,3 @@
 .dart_tool/
 .test/
 .lib/
-# Ignorar todo
-*
-
-# Pero no ignores estos archivos y carpetas:
-!.gitignore
-!/bin/
